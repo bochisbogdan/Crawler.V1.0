@@ -1,0 +1,11 @@
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\bin\Debug\Auto_Finde.exe.config
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\bin\Debug\Auto_Finde.exe
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\bin\Debug\Auto_Finde.pdb
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\obj\Debug\Auto_Finde.csprojAssemblyReference.cache
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\obj\Debug\Auto_Finde.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\obj\Debug\Auto_Finde.csproj.CopyComplete
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\obj\Debug\Auto_Finde.exe
+C:\Users\bogdan\source\repos\Auto_Finde\Auto_Finde\obj\Debug\Auto_Finde.pdb
